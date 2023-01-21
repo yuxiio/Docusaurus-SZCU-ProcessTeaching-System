@@ -37,7 +37,7 @@ module.exports = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/yuxiio/Docusaurus-SZCU-ProcessTeaching-System',
+            'https://github.com/yuxiio/Docusaurus-SZCU-ProcessTeaching-System/tree/main/',
         },
         blog: false,
         theme: {
